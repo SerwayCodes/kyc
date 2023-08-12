@@ -1,9 +1,8 @@
-# kyc
+#Online Bank Details Update 
 
-Online Bank Details Update 
 The Bank Details Update Website is a user-friendly online platform designed to streamline and simplify the process of updating customers' bank details. This innovative solution is aimed at minimizing time lost, eliminating transportation costs, and enhancing overall efficiency for both customers and the bank.
 
-Features
+#Features
 Effortless Bank Detail Updates: Customers can conveniently update their bank details online, eliminating the need for physical visits to the bank or submitting paper forms.
 
 Time-Saving: Say goodbye to long waiting times and queues. With the online system, customers can swiftly update their information, reducing the overall processing time.
@@ -16,7 +15,7 @@ Enhanced Data Accuracy: Manual entry of bank details can lead to errors. The onl
 
 Instant Confirmation: Customers receive immediate confirmation of their updated bank details, providing peace of mind that the changes have been successfully recorded.
 
-Disadvantages of Manual Update System
+#Disadvantages of Manual Update System
 Time-Consuming: Customers need to physically visit the bank, resulting in wasted time and potential productivity loss.
 
 Transportation Costs: Traveling to the bank can incur transportation expenses for customers, leading to additional financial burden.
@@ -27,7 +26,7 @@ Limited Availability: Customers can only update their details during the bank's 
 
 Processing Delays: Manual processing of updates may lead to delays in reflecting changes, causing inconvenience to customers.
 
-Advantages of Using the Online System
+#Advantages of Using the Online System
 Convenience: Customers can update their bank details from anywhere, anytime, without the need to visit a physical branch.
 
 Time-Efficiency: The online system reduces the time required for updating bank details, enabling customers to quickly make changes.
