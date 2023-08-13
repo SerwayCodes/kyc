@@ -11,7 +11,7 @@
   color: #fff;
 }
 body {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 section {
   background: url("images/1.PNG");
@@ -37,10 +37,8 @@ section .nav-logo p {
   color: #fff;
 }
 
-section .nav{
-  
+section .nav {
   background: transparent;
-  
 }
 
 .bg-photo {
@@ -55,23 +53,18 @@ section .nav{
   display: flex;
   justify-content: center;
   align-items: center;
-  /* margin-top: 10%; */
+
   min-height: 100vh;
   padding-bottom: 60px;
   flex-direction: column;
 }
 .contents {
-  flex: 1; /* Take up remaining vertical space */
+  flex: 1;
   padding: 20px;
   margin-top: 100px;
 }
 
-/* .container {
-  background-color: #000000;
-  opacity: 0%;
-} */
 .nav {
-  /* background-color: rgb(255, 127, 212); */
   position: fixed;
   top: 0;
   display: flex;
@@ -79,11 +72,11 @@ section .nav{
   width: 100%;
   height: 100px;
   line-height: 100px;
-  /* background: linear-gradient(rgba(35, 35, 94, 0.6), transparent); */
+
   z-index: 100;
   margin-bottom: 100px;
- 
-  background: hsla(0,0%,100%,.9);
+
+  background: hsla(0, 0%, 100%, 0.9);
   border-color: #e5e7eb;
 }
 .nav-logo {
@@ -131,9 +124,7 @@ section .nav{
   cursor: pointer;
   transition: 0.3s ease;
 }
-.btn:hover {
-  background: rgba(255, 255, 255, 0.3);
-}
+
 #registerBtn {
   margin-left: 15px;
 }
@@ -191,8 +182,7 @@ header {
   padding: 10px 0 30px 0;
 }
 .carousel-inner img {
-  width: 100px;
-  height: 400px;
+  height: 20rem;
   border-radius: 50px;
 }
 .two-forms {
@@ -271,7 +261,7 @@ header {
     top: -800px;
     display: flex;
     justify-content: center;
-    background: rgba(255, 255, 255, 0.2);
+    background: #E19898;
     width: 100%;
     height: 90vh;
     backdrop-filter: blur(20px);
@@ -323,15 +313,39 @@ header {
   }
 }
 
-.Success-box img{
-border-radius: 100px;
+.Success-box img {
+  border-radius: 100px;
 }
-.main-wrapper{
+.main-wrapper {
   display: flex;
   justify-content: center;
   text-align: center;
-
 }
 .Success-box {
   border-radius: 50px;
+}
+.form-wrapper {
+  border: solid 1px #2e3192;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+select {
+  min-width: 300px;
+  height: 40px;
+}
+label {
+  display: block;
+}
+
+.content {
+  margin: auto;
+}
+
+.card-header {
+  background-color: #2e3192;
+  color: #fff;
+}
+.form-control {
+  border: solid 1px #2e3192;
 }
